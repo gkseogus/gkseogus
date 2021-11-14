@@ -7,6 +7,7 @@
 
 [Here my RESUME][resume]
 
+[Here my blog][blog]
 -----------------------
 
 ### *-My SNS-*
@@ -22,3 +23,4 @@
 -----------------------
 
 [resume]: https://github.com/gkseogus/RESUME
+[blog]: https://gkseogus-cs.tistory.com/
