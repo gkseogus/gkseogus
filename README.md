@@ -9,9 +9,9 @@ Email : <fbznffldj998@naver.com>
 
 [Here my RESUME][resume]
 
-[Here my blog][blog]
-
 [Here my study blog][study blog]
+
+[Here my blog][blog]
 -----------------------
 
 ### *-My SNS-*
@@ -26,5 +26,5 @@ Email : <fbznffldj998@naver.com>
 -----------------------
 
 [resume]: https://github.com/gkseogus/RESUME
-[blog]: https://hdh-portfolio.com/
 [study blog]: https://gkseogus-cs.tistory.com/
+[blog]: https://hdh-portfolio.com/
