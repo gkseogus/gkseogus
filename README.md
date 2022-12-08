@@ -27,4 +27,4 @@ Email : <fbznffldj998@naver.com>
 
 [resume]: https://github.com/gkseogus/RESUME
 [study blog]: https://gkseogus-cs.tistory.com/
-[blog]: https://hdh-portfolio.com/
+[blog]: https://han-portfolio.com/
