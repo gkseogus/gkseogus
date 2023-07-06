@@ -9,7 +9,6 @@ Email : <fbznffldj998@naver.com>
 
 [Here my RESUME][resume]
 
-[Here my study blog][study blog]
 
 [Here my blog][blog]
 -----------------------
