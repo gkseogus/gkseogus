@@ -1,11 +1,12 @@
 ## 👋 Welcome to my Git Hub 👋
 ### *-Introduce my self-*
-<h4> Name : 한대현(Han Dae Hyeon) </h4>
+Name : 한대현(Han Dae Hyeon)
 
 Email : <fbznffldj998@naver.com> 
 
-<h4> University : Hallym University </h4>
-<h4> Major : Bigdata </h4>
+University : Hallym University 
+
+Major : Bigdata 
 
 [Here my RESUME][resume]
 
