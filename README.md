@@ -4,14 +4,8 @@ Name : 한대현(Han Dae Hyeon)
 
 Email : <fbznffldj998@naver.com> 
 
-University : Hallym University 
-
-Major : Bigdata 
-
 [Here my RESUME][resume]
 
-
-[Here my blog][blog]
 -----------------------
 
 ### *-My GitHub stats-*
@@ -20,5 +14,3 @@ Major : Bigdata
 -----------------------
 
 [resume]: https://github.com/gkseogus/RESUME
-[study blog]: https://gkseogus-cs.tistory.com/
-[blog]: https://han-portfolio.com/
